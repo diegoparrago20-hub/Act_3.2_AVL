@@ -1,4 +1,4 @@
-# Act_3.1_BST
+# Act_3.2_AVL
 Proyecto desarrollado en Java utilizando NetBeans, correspondiente a la actividad de Árbol AVL. Consiste en implementar una estructura de datos de búsqueda que se mantiene balanceada automáticamente al insertar o eliminar empleados.
 
 ## Equipo #2
